@@ -1,0 +1,23 @@
+INFO:root:Browser instance created succesfully
+INFO:root:Navigating to the url...
+INFO:root:Logging in to Brand Dashboard
+INFO:root:username field inputted succesfully
+INFO:root:password field inputted succesfully
+INFO:root:Clicked on:login button
+INFO:root:OTP inputted succesfully
+INFO:root:Clicked on:Verify button
+INFO:root:I am in Dashboard
+INFO:root:Matching uploaded media
+INFO:root:Clicked on:Media page icon
+INFO:root:Clicked on:Media
+INFO:root:Clicked on:Media Match button
+INFO:root:Clicked on:Media URl
+INFO:root:Clicked on:Submit Button
+INFO:root:Clicked on:Media page icon
+INFO:root:Clicked on:Media
+INFO:root:Media Matched
+INFO:root:I am able to execute test case 3
+INFO:root:Logging out of the  Brand Dashboard
+INFO:root:Clicked on:Drop down button
+INFO:root:Clicked on:Logout button
+INFO:root:Closing the Browser
